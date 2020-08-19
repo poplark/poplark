@@ -2,7 +2,7 @@
 
 伪前端一枚
 
-[![poplark's github stats](https://github-readme-stats.vercel.app/api?username=poplark)](https://github.com/anuraghazra/github-readme-stats)
+[![poplark's github stats](https://github-readme-stats.vercel.app/api?username=poplark)](https://github.com/anuraghazra/github-readme-stats?theme=dark)
 
 <!--
 **poplark/poplark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
