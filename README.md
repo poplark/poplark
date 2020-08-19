@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm poplark 👋
+
+伪前端一枚
+
+[![poplark's github stats](https://github-readme-stats.vercel.app/api?username=poplark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **poplark/poplark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
