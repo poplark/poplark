@@ -1,7 +1,5 @@
 ### Hi there, I'm poplark 👋
 
-前端老腊肉
-
 [![poplark's github stats](https://github-readme-stats.vercel.app/api?username=poplark&theme=radical)](https://github.com/poplark/github-readme-stats)
 
 [![poplark's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poplark&layout=compact&theme=radical)](https://github.com/poplark/github-readme-stats)
