@@ -1,8 +1,8 @@
 ### Hi there, I'm poplark 👋
 
-[![poplark's github stats](https://github-readme-stats.vercel.app/api?username=poplark&theme=radical&count_private=true)](https://github.com/poplark)
+[![poplark's github stats](https://github-readme-stats.vercel.app/api?username=poplark&theme=radical&count_private=true)](https://github.com/poplark/poplark)
 
-[![poplark's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poplark&layout=compact&theme=radical)](https://github.com/poplark)
+[![poplark's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poplark&layout=compact&theme=radical)](https://github.com/poplark/poplark)
 
 
 <!--
